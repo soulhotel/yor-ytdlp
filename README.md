@@ -50,3 +50,9 @@ To have it show up in your applications list and searches
 - place the .desktop file in the appropriate directory, usually `/home/user/.local/share/applications`.
 - If you place the script somewhere other than `~/yor-ytdlp/` then open the .desktop file and make sure the Exec path is set accordingly.
 
+![app launcher](https://github.com/soulhotel/yor-ytdlp/assets/155501797/b438a97a-5586-48a5-89f4-ee057c5a865a)
+
+## Other
+
+- See a [Media Conversion Tool](https://github.com/soulhotel/yor-mc-lite) (script) utilizing the ffmpeg library 
+- See [./starterfiles](https://github.com/soulhotel/starterfiles). My personal collection of scripts and resources
