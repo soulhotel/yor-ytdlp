@@ -1,8 +1,8 @@
 ## Your very own YT-DLP Tool
 
-This script simplifies the process of downloading audio and video content using yt-dlp. It does this through its user-friendly "menu's" that guide the user with simple 1-2-3 steps. By guiding the user through commonly requested options with clear prompts, this script makes yt-dlp easier to use  with minimal effort.
+This script simplifies the use of yt-dlp, when the User often desires multiple different outputs. It does this through its user-friendly "menu's" that guide the user with simple 1-2-3 steps. By guiding the user through commonly requested options with clear prompts, this script makes yt-dlp easier to use  with minimal effort.
 
-Also its lightweight (7.4kb) compared to the alternative of GUI applications which could exceed 100mb (electron apps..).
+Also its lightweight (7.4kb) compared to the alternative of GUI applications that could exceed 100mb (like electron apps..).
 
 ## How it works
 
@@ -24,11 +24,11 @@ Also its lightweight (7.4kb) compared to the alternative of GUI applications whi
  
 7. Finally, destination. Press ENTER to default to Downloads/ytdlp/ or Specify a folder path.
 
-###### Note: This script downloads the best format available for videos (ytdlp's default behavior), it *may* result in recieving an .mkv file for one video and .mp4 file for another video. Meanwhile, mp3s defaults to best quality with embed cover/thumbnail.
+###### Note: This script (by default) downloads the best format available for videos, it *may* result in recieving an .mkv file for one video and .mp4 file for another video. Meanwhile, mp3s defaults to best quality possible with embed thumbnail/cover-art.
 
 ## See it in action
 
-https://github.com/soulhotel/yor-ytdlp/assets/155501797/1dbdfc21-86ca-486c-8ae0-d11d3ce306f7
+https://github.com/soulhotel/yor-ytdlp/assets/155501797/b74a18d4-a7ca-4e95-ad68-40612333202b
 
 ## Usage
 
