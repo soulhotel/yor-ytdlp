@@ -24,6 +24,8 @@ Also its lightweight (7.4kb) compared to the alternative of GUI applications whi
  
 7. Finally, destination. Press ENTER to default to Downloads/ytdlp/ or Specify a folder path.
 
+###### Note: This script downloads the best format available for videos (ytdlp's default behavior), it *may* result in recieving an .mkv file for one video and .mp4 file for another video. Meanwhile, mp3s defaults to best quality with embed cover/thumbnail.
+
 ## See it in action
 
 https://github.com/soulhotel/yor-ytdlp/assets/155501797/1dbdfc21-86ca-486c-8ae0-d11d3ce306f7
