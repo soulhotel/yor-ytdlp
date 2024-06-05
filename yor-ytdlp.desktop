@@ -4,7 +4,7 @@
 Version=1.0
 Type=Application
 Name=Youtube DLP Script
-Exec="/home/jinn/Documents/scripts/ytdlp simplified script/yor-ytdlp.sh"
+Exec="~/yor-ytdlp/yor-ytdlp.sh"
 Icon=video-player
 Terminal=true
 Categories=Utility;
