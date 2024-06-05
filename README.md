@@ -1,6 +1,6 @@
 ## Your very own YT-DLP Tool
 
-This script simplifies the use of yt-dlp, when the User often desires multiple different outputs. It does this through its user-friendly "menu's" that guide the user with simple 1-2-3 steps. By guiding the user through commonly requested options with clear prompts, this script makes yt-dlp easier to use  with minimal effort.
+This script simplifies the use of yt-dlp, when the User often desires multiple different outputs. It does this through its user-friendly "menu's" that guide the user with simple 1-2-3 steps. By guiding the user through commonly requested options with clear prompts, this script makes yt-dlp become minimal effort.
 
 Also its lightweight (7.4kb) compared to the alternative of GUI applications that could exceed 100mb (like electron apps..).
 
