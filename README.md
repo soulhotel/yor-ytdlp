@@ -32,6 +32,7 @@ https://github.com/soulhotel/yor-ytdlp/assets/155501797/b74a18d4-a7ca-4e95-ad68-
 
 ## Usage
 
+- Ensure that you already have yt-dlp on your system
 - Git clone this repo or download the source above
 - Make the script an executable then run it
 - Drag a URL in, or use the text file
