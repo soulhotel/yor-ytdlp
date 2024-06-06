@@ -1,4 +1,4 @@
-## Your very own YT-DLP Tool
+## Your very own YT-DLP Tool `TUI`
 
 This script simplifies the use of yt-dlp for scenarios where the User often desires multiple different outputs. It does so through its user-friendly "menu's" that guide the user with simple 1-2-3 steps. By guiding the user through commonly requested options with clear prompts, this script makes using yt-dlp a minimal effort task for the typical entry-level power user.
 
