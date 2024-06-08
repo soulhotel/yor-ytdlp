@@ -6,6 +6,8 @@ Also its lightweight! 7kb compared to the alternative of GUI applications that c
 
 ## How it works
 
+0. The script operates through "pages", listed below in 1-7.
+
 1. The User can input a URL or press ENTER to default to URLs in ~/Downloads/ytdlp/url.txt
    - ✔ The script validates URLs and creates the directory for you
    - ✔ Multiple URLs in the url.txt can batch custom download
